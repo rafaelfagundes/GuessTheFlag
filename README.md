@@ -9,7 +9,7 @@ https://www.hackingwithswift.com/books/ios-swiftui/guess-the-flag-introduction
 
 <img src="app.gif" style="width: 400px;" />
 
-## This app contains changes that I found interesting and fun to make:
+## Some changes that I found interesting and fun to make:
 
 - Instead of an alert that requires an extra tap and isn't very game-like, I made an overlay that darkens the background and shows the result for 1 second, then automatically disappears and continues the game, making it more dynamic.
 - I used glyphs from SF Symbols in the overlay message.
