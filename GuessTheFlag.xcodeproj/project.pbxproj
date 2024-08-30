@@ -19,6 +19,8 @@
 		531F91B72C7F83F9009094D8 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		531F91B92C7F83F9009094D8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		531F91BC2C7F83F9009094D8 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		531F91C32C817805009094D8 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		531F91C42C8183EB009094D8 /* app.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = app.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +37,8 @@
 		531F91A92C7F83F9009094D8 = {
 			isa = PBXGroup;
 			children = (
+				531F91C42C8183EB009094D8 /* app.gif */,
+				531F91C32C817805009094D8 /* README.md */,
 				531F91B42C7F83F9009094D8 /* GuessTheFlag */,
 				531F91B32C7F83F9009094D8 /* Products */,
 			);
